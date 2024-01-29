@@ -81,5 +81,6 @@ Lihe Yang, Bingyi Kang, Zilong Huang, Xiaogang Xu, Jiashi Feng, Hengshuang Zhao,
 
 - <https://github.com/LiheYoung/Depth-Anything>
 - <https://github.com/spacewalk01/depth-anything-tensorrt>
+- <https://github.com/autowarefoundation/autoware.universe/tree/main/perception/tensorrt_yolox>
 - <https://github.com/autowarefoundation/autoware.universe/tree/main/common/tensorrt_common>
 - <https://github.com/autowarefoundation/autoware.universe/tree/main/common/cuda_utils>
