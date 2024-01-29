@@ -1,15 +1,17 @@
-# TensorRT Depth Anything for Effcient Inference
+# TensorRT Depth Anything for Efficient Inference
+
+https://github.com/daniel89710/trt-depth-anything/assets/43815838/3789edec-dceb-4f4f-b4fc-3654845b5698
 
 ## Purpose
 
-This package estimates depth for arbitary images using TensorRT Depth Anything for efficient and faster inference.
-Specifically, this supports multi-precision and multi-devices inference for efficient inference on embedded platform.
+This package estimates depth for arbitrary images using TensorRT Depth Anything for efficient and faster inference.
+Specifically, this supports multi-precision and multi-device inference for efficient inference on embedded platforms.
 
 ## Setup
 
-Install basic libraries for inference on GPUs including CUDA, cuDNN, TensorRT (>=8.6) and OpenCV.
+Install basic libraries for inference on GPUs including CUDA, cuDNN, TensorRT (>=8.6), and OpenCV.
 
-Moreover, you need to install as bellow.
+Also, you'll need to install them as below.
 ```bash
 sudo apt-get install libgflags-dev
 sudo apt-get install libboost-all-dev
